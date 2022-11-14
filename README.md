@@ -1,2 +1,3 @@
 # Responsive-nav-bar
-Perfecting the build of a responsive nav-bar
+
+A simple yet effective navigation bar which is responsive & animated.
